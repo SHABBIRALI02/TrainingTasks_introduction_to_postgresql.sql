@@ -1,4 +1,4 @@
-# TrainingTasks_shabbirali  
+# POSTGRESQL
 
 CREATE TABLE customer (
    customer_id serial PRIMARY KEY,
